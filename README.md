@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Jacqueline-rds
-- 👀 I’m interested in study and learn
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me email jacqueline-rds@hotmail.com
+# 👋 Olá! Eu sou Jacqueline-rds
 
-<!---
-Jacqueline-rds/Jacqueline-rds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Apaixonada por tecnologia e inovação, estou sempre buscando aprender e me aperfeiçoar nas áreas mais promissoras da atualidade.
+
+### 🛠️ O que estou estudando no momento:
+- **IA Generativa**: Explorando modelos avançados de inteligência artificial para criar soluções inovadoras.
+- **UX Design**: Focada em criar experiências de usuário cativantes e intuitivas.
+- **Engenharia de Prompts**: Desenvolvendo habilidades para criar prompts eficientes e alinhados a modelos de IA.
+- **Servidores e Protocolos**: Aprofundando o conhecimento em servidores e como protocolos de comunicação funcionam.
+- **Solicitações HTTP**: Entendendo as bases de requisições e respostas entre cliente e servidor.
+
+### 🚀 Objetivos:
+- Colaborar em projetos que envolvam inteligência artificial e automação.
+- Ajudar a criar interfaces que melhorem a experiência de usuário.
+- Explorar novas tecnologias para desenvolver soluções eficazes e eficientes.
+
+📫 **Entre em contato**:  
+Para parcerias, colaborações ou apenas uma conversa sobre tecnologia, me envie um e-mail: **jacqueline.rda2905@gmail.com**
