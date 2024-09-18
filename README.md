@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Jacqueline-rds
+# 👋 Olá! Eu sou Jacqueline
 
 💡 Apaixonada por tecnologia e inovação, estou sempre buscando aprender e me aperfeiçoar nas áreas mais promissoras da atualidade.
 
